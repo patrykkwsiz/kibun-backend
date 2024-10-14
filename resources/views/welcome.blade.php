@@ -39,12 +39,14 @@
     </style>
 </head>
 <body>
-    <div style="text-align: center">
-        Projekt komunikacja człowiek-komputer.
-    </div>
-    <div class="button-container">
-        <a href="/graphiql" class="button" style="color: black">Testowanie zapytań graphql</a>
-        <a href="/download-apk" class="button" style="color: black">Pobierz apk</a>
+    <div style="display: flex; flex-direction: column;">
+        <div style="text-align: center">
+            Projekt komunikacja człowiek-komputer.
+        </div>
+        <div class="button-container">
+            <a href="/graphiql" class="button" style="color: black">Testowanie zapytań graphql</a>
+            <a href="/download-apk" class="button" style="color: black">Pobierz apk</a>
+        </div>
     </div>
 
 </body>
