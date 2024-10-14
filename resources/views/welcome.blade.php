@@ -40,7 +40,7 @@
 </head>
 <body>
     <div style="display: flex; flex-direction: column;">
-        <div style="text-align: center">
+        <div style="text-align: center; color: #24ff96">
             Projekt komunikacja człowiek-komputer.
         </div>
         <div class="button-container">
